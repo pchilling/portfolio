@@ -51,17 +51,3 @@ npm run dev
 
 ## Usage
 Feel free to use this portfolio template as a starting point for creating your own portfolio. Customize the content, add your projects, and make it uniquely yours.
-
-## Contributing
-
-If you'd like to contribute to this project or report issues, please check out the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Thank you for visiting my portfolio! If you have any questions or would like to get in touch, please don't hesitate to contact me.
-
-This README template is inspired by the React + Vite template.
-
-
